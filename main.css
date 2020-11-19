@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    max-width: 1140px;
+    margin: auto;
+}
+
+fieldset {
+    border: none;
+    display: flex;
+    flex-direction: column;
+    width: 100px;
+    padding: 0;
+    margin: 20px 0px;
+}
+
+.hidden {
+    display: none;
+    visibility: hidden;
+}
